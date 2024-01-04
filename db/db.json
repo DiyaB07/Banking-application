@@ -1,0 +1,92 @@
+{
+  "bankdetails": [
+    {
+      "id": "1",
+      "Name": "Puja Chatterjee",
+      "Date": "27.12.2023",
+      "CreditOrDebit": "credit",
+      "Amount": 316
+    },
+    {
+      "id": "2",
+      "Name": "Rahul Verma",
+      "Date": "28.12.2023",
+      "CreditOrDebit": "debit",
+      "Amount": 256
+    },
+    {
+      "id": "3",
+      "Name": "Mahesh Sharma",
+      "Date": "29.12.2023",
+      "CreditOrDebit": "credit",
+      "Amount": 456
+    },
+    {
+      "id": "4",
+      "Name": "Rani Sharma",
+      "Date": "30.12.2023",
+      "CreditOrDebit": "debit",
+      "Amount": 765
+    },
+    {
+      "id": "24",
+      "Name": "Robert Anderson",
+      "Type": "BHIM-UPI",
+      "Date": "2024-01-03T07:52:24.423Z",
+      "CreditOrDebit": "credit",
+      "Amount": 12
+    },
+    {
+      "id": "25",
+      "Name": "Raj Verma",
+      "Type": "Phonepay",
+      "Date": "2024-01-03T08:00:14.705Z",
+      "CreditOrDebit": "credit",
+      "Amount": 10
+    },
+    {
+      "id": "8",
+      "Name": "Rahul Joshi",
+      "Date": "2024-01-03T08:00:52.586Z",
+      "CreditOrDebit": "debit",
+      "Amount": 62
+    },
+    {
+      "id": "22",
+      "Name": "Joe Johnson",
+      "Type": "UPI",
+      "Date": "2024-01-03T08:01:04.869Z",
+      "CreditOrDebit": "credit",
+      "Amount": 10
+    },
+    {
+      "id": "9",
+      "Name": "Puja Sharma",
+      "Date": "2024-01-03T08:03:08.240Z",
+      "CreditOrDebit": "debit",
+      "Amount": 5
+    },
+    {
+      "id": "10",
+      "Name": "Jane Mattew",
+      "Date": "2024-01-03T10:01:55.039Z",
+      "CreditOrDebit": "debit",
+      "Amount": -3
+    },
+    {
+      "id": "11",
+      "Name": "Robert Anderson",
+      "Date": "2024-01-03T10:03:10.617Z",
+      "CreditOrDebit": "debit",
+      "Amount": -600
+    },
+    {
+      "id": "20",
+      "Name": "Diya Banerjee",
+      "Type": "Cash",
+      "Date": "2024-01-03T10:03:27.673Z",
+      "CreditOrDebit": "credit",
+      "Amount": 1000
+    }
+  ]
+}

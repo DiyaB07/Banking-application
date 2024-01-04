@@ -1,0 +1,30 @@
+.header{
+    background-color: rgb(159, 207, 236);
+    height: 100px;
+}
+.header-amount{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    box-shadow: #282c34;
+    background-color: rgb(247, 244, 244);
+  }
+  .header-amount{
+    display: flex;
+    justify-content: space-between;
+  }
+  .cheader-amount text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+  }
+  .image{
+    width: 55px;
+    height: 55px;
+  }
+  .section-header{
+    display: flex;
+    position: relative;
+    height: 500px;
+    width: 500px;
+  }
